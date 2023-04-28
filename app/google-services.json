@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1000604859682",
+    "project_id": "contact-17931",
+    "storage_bucket": "contact-17931.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000604859682:android:75eed5591dadc387cfb97b",
+        "android_client_info": {
+          "package_name": "my.edu.tarc.contact"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000604859682-45gv8rg4sslbsgahj5ggdng6dk4mi2eb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZRTc5ZJTvNvaIbBIBHfamMFku2FYkV0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000604859682-45gv8rg4sslbsgahj5ggdng6dk4mi2eb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
